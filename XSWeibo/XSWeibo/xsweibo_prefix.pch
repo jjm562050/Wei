@@ -1,0 +1,17 @@
+//
+//  xsweibo_prefix.pch
+//  XSWeibo
+//
+//  Created by apple on 15/9/7.
+//  Copyright (c) 2015年 huiwen. All rights reserved.
+//
+
+#ifndef XSWeibo_xsweibo_prefix_pch
+#define XSWeibo_xsweibo_prefix_pch
+
+#import <UIKit/UIKit.h>
+#import "Common.h"
+#import "UIViewExt.h"
+
+
+#endif
